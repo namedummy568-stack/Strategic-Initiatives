@@ -1,0 +1,1 @@
+This file contains a fix for the login authentication bug.
